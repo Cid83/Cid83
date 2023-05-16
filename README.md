@@ -14,10 +14,10 @@ SOFT SKILLS
 
  Analytical Thinking | Self Motivation | Time Management | Prone to Teamwork | Continous Learning | High Self-Esteem | Observing Details | Strong Communication | Creativity | Curiosity </h5>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img align="right" alt="Connecting" width ="200" border-radius="50%" src="https://media.giphy.com/media/c6LsXARy3A9PxbmgAj/giphy.gif"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cigdem-sanli/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" height="30" width="40" /></a>
-<img align="right" alt="Connecting" width ="300" src="https://media.giphy.com/media/c6LsXARy3A9PxbmgAj/giphy.gif">
+
 
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmcigdem83@gmail.com)](mailto:gmcigdem83@gmail.com)
