@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width ="400" src="https://giffiles.alphacoders.com/362/36246.gif">
+
 <h3 align="left">About Me</h3>
 
 <h5 align="left">👋 Hi I'm Çiğdem,master's degree student-software engineering now.
