@@ -17,12 +17,13 @@ SOFT SKILLS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cigdem-sanli/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" height="30" width="40" /></a>
+<img align="right" alt="Connecting" width ="300" src="https://media.giphy.com/media/c6LsXARy3A9PxbmgAj/giphy.gif">
 
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmcigdem83@gmail.com)](mailto:gmcigdem83@gmail.com)
 </p>
 
-<img align="right" alt="Connecting" width ="400" src="https://media.giphy.com/media/c6LsXARy3A9PxbmgAj/giphy.gif">
+
 
 
 
