@@ -22,7 +22,7 @@ SOFT SKILLS
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmcigdem83@gmail.com)](mailto:gmcigdem83@gmail.com)
 </p>
 
-<img align="right" alt="Connecting" width ="400" src="[https://tenor.com/tr/view/connecting-loading-buffering-load-gif-17415275](https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif)">
+<img align="right" alt="Connecting" width ="400" src="https://i.gifer.com/Jp7G.gif">
 
 
 
