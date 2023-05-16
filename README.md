@@ -22,13 +22,15 @@ SOFT SKILLS
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmcigdem83@gmail.com)](mailto:gmcigdem83@gmail.com)
 </p>
 
+<img align="right" alt="Connecting" width ="400" src="https://tenor.com/tr/view/connecting-loading-buffering-load-gif-17415275">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 
  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/>
  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> 
  <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"  width="40" height="40"/>  
