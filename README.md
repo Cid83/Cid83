@@ -36,6 +36,8 @@ SOFT SKILLS
  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/>
  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> 
  <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="react" width="40" height="40"/>
+
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"  width="40" height="40"/>  
 
  
