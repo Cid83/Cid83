@@ -3,12 +3,12 @@
 <h3 align="left">About Me</h3>
 
 <h5 align="left">👋 Hi I'm Çiğdem,master's degree student-software engineering now.
-Also Frontend Developer with a year of experience in IT, interested in writing codes, creating responsive and animated designs, possessing strong creative thinking skills ,high energy and integrity. Quickly grasp new technologies and consepts to develop innovative and creative solutions to problems. Espacially interested in Frontend Development,HTML,CSS,Git,Bootstrap, SCSS,JS
-Besides, I'm in the learning phase of React.
+Also Frontend Developer with a year of experience in IT, interested in writing codes, creating responsive and animated designs, possessing strong creative thinking skills ,high energy and integrity. Quickly grasp new technologies and consepts to develop innovative and creative solutions to problems. Espacially interested in Frontend Development,HTML,CSS,Git,Bootstrap, SCSS,JS,React
+Besides, I'm in the learning phase of React-Native .
 
 TECHNICAL SKILLS
 
-Frontend Developer | HTML5 | CSS3 | Git-Github | Bootstrap | SASS-SCSS | JavaScript
+Frontend Developer | HTML5 | CSS3 | Git-Github | Bootstrap | SASS-SCSS | JavaScript | React.js
 
 SOFT SKILLS 
 
